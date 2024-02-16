@@ -1,4 +1,4 @@
-# Covid-19-Study hello
+# Covid-19-Study
 
 ### Problem Statement
 Covid-19, a novel coronavirus, was first identified in December 2019 in Wuhan China.  It quickly spread throughout Asia and the rest of the world; transmitted by inhalation of droplets and particulates exhaled by infected individuals.  Early transmissibility estimates put the basic reproduction number, R0, between 1.4 and 2.5.  However, unknown at the time, later analysis would estimate an R0 between 3.8 and 8.9.  The rapid spread of the virus, and severity of the resulting illness, hit countries hard overwhelming local hospitals and leaving government officials with more questions than answers on how to address the emerging and evolving health crisis.  This led to a wide disparity in strategy's, from China's "zero Covid" to Sweden's "let it rip".  
