@@ -1,4 +1,3 @@
-![covid_icon_1](./images/coronavirus_icon-1.png)
 # Covid-19-Study
 
 ### Problem Statement
